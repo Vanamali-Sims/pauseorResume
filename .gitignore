@@ -9,8 +9,7 @@ __pycache__/
 # Large data files (adjust as needed)
 data/
 
-# Model files (if these are large or generated, uncomment if needed)
-# models/
+
 
 # OS-specific files
 .DS_Store
